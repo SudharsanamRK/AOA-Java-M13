@@ -66,8 +66,7 @@ public class Solution {
 ```
 
 ## Output:
-
-<img width="1076" height="165" alt="image" src="https://github.com/user-attachments/assets/ae1f1baf-ebcc-47bc-82c4-2c5d3cc5c528" />
+<img width="1148" height="115" alt="image" src="https://github.com/user-attachments/assets/9b35695d-d1e4-404c-bd5d-1308b7e3a685" />
 
 ## Result:
 The program successfully implemented and the expected output is verified.
